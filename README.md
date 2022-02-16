@@ -86,10 +86,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mermaid記法でマークダウン&lpar;Markdown&rpar;を書いてみる](https://qiita.com/takiguchi-yu/items/60be8fd274498d6ffd68)
 - [Google Apps Script&lpar;GAS&rpar; の new Date&lpar;&rpar; で日本時間を取得する方法](https://qiita.com/takiguchi-yu/items/2ba8171e5096b9b609e5)
 - [AWSアカウントを跨いで利用料金を取得する](https://qiita.com/takiguchi-yu/items/565abbcde1dcaaf75d12)
 - [【Swagger】Docker環境で簡易モッキング](https://qiita.com/takiguchi-yu/items/cfdd55fcd8cbf5d46ee0)
-- [crontab可視化ツールcronvお試し](https://qiita.com/takiguchi-yu/items/0f2f79db376c1f775bbb)
 <!-- BLOG-POST-LIST:END -->
 
 
