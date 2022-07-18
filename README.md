@@ -78,10 +78,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Life Cycle](https://qiita.com/takiguchi-yu/items/45bdc58d0d0652a7a798)
 - [未解決のコンフリクトを検知するgit-hooks&lpar;pre-commit&rpar;をすべてのリポジトリに適用する](https://qiita.com/takiguchi-yu/items/0fb6c8ca44c87c96b7ad)
 - [Firebase に Next.js のアプリケーションを Hosting する](https://qiita.com/takiguchi-yu/items/5d22048b578bd311b996)
 - [Dockerイメージを最適化するのに役立つ重要な5つのプラクティス](https://qiita.com/takiguchi-yu/items/3202f7bf5620f47f9dee)
-- [Mermaid記法でマークダウン&lpar;Markdown&rpar;を書いてみる](https://qiita.com/takiguchi-yu/items/60be8fd274498d6ffd68)
 <!-- BLOG-POST-LIST:END -->
 
 
