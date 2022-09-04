@@ -78,10 +78,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DynamoDB scan vs query](https://qiita.com/takiguchi-yu/items/71437dbf2e33f1af2019)
 - [Webサイトを最速で構築するフレームワーク Hugo](https://qiita.com/takiguchi-yu/items/4838b44e87de1c662ee9)
 - [because it violates the following Content Security Policy directive: &quot;default-src &#39;self&#39;&quot;. Note that &#39;connect-src&#39; was not explicitly set, so &#39;default-src&#39; is used as a fallback.](https://qiita.com/takiguchi-yu/items/a2e6d6d7a3c27492e121)
 - [nodebrewインストールメモ](https://qiita.com/takiguchi-yu/items/ba39916bbe1290ac8051)
-- [画像の一部を黒塗りでマスクする方法](https://qiita.com/takiguchi-yu/items/277c596b7f96b0d9f9c0)
 <!-- BLOG-POST-LIST:END -->
 
 
