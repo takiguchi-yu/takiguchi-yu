@@ -78,10 +78,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Electronアプリをプレゼンモードよりも前面に表示するテクニック](https://qiita.com/takiguchi-yu/items/11420d86a640ee18916a)
 - [ひとつのAWSアカウントに複数のCDKをbootstrapする](https://qiita.com/takiguchi-yu/items/b757e4484b2bc9ecb9b4)
 - [CDK を使って AWS を構築しながらアプリケーション開発](https://qiita.com/takiguchi-yu/items/a593567b71553aec0429)
 - [DynamoDB のテーブル設計](https://qiita.com/takiguchi-yu/items/107389405025a1a5c4a0)
-- [DynamoDB scan vs query](https://qiita.com/takiguchi-yu/items/71437dbf2e33f1af2019)
 <!-- BLOG-POST-LIST:END -->
 
 
