@@ -78,10 +78,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Electronで多重起動させない方法](https://qiita.com/takiguchi-yu/items/2daf37815daf0fd66e67)
 - [Electron超概略](https://qiita.com/takiguchi-yu/items/af24faee31e84c93b473)
 - [API Gateway の WebSocket で connectionId を部屋ごとに管理するチャットアプリ実装サンプル](https://qiita.com/takiguchi-yu/items/0e0ca30e85022dfc3d0d)
 - [Electronアプリをプレゼンモードよりも前面に表示するテクニック](https://qiita.com/takiguchi-yu/items/11420d86a640ee18916a)
-- [ひとつのAWSアカウントに複数のCDKをbootstrapする](https://qiita.com/takiguchi-yu/items/b757e4484b2bc9ecb9b4)
 <!-- BLOG-POST-LIST:END -->
 
 
