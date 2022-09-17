@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: <a href="https://twitter.com/intent/tweet?button_hashtag=ytakiguche&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #ytakiguche</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
