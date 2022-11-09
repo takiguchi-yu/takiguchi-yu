@@ -78,10 +78,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Rancher Desktop を利用する方法（Docker Desktop の代替ツール）](https://qiita.com/takiguchi-yu/items/296f36dc33fa2b02247f)
 - [Electronで多重起動させない方法](https://qiita.com/takiguchi-yu/items/2daf37815daf0fd66e67)
 - [Electron超概略](https://qiita.com/takiguchi-yu/items/af24faee31e84c93b473)
 - [API Gateway の WebSocket で connectionId を部屋ごとに管理するチャットアプリ実装サンプル](https://qiita.com/takiguchi-yu/items/0e0ca30e85022dfc3d0d)
-- [Electronアプリをプレゼンモードよりも前面に表示するテクニック](https://qiita.com/takiguchi-yu/items/11420d86a640ee18916a)
 <!-- BLOG-POST-LIST:END -->
 
 
