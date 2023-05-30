@@ -78,10 +78,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS CDK で OpenAPI 定義のプレースホルダーを実際の値に置き換える](https://qiita.com/takiguchi-yu/items/8a7f49728dd07752419c)
 - [AWS SDK for JavaScript v2 から v3 にする](https://qiita.com/takiguchi-yu/items/b80d0f1a21f8a4faad12)
 - [React JS でスケルトンローディングを実装するサンプル](https://qiita.com/takiguchi-yu/items/18ec360bdfdfa12a303d)
 - [無料から使えるデータベース比較](https://qiita.com/takiguchi-yu/items/020e17151903011d92f6)
-- [package.json の依存関係を更新する方法](https://qiita.com/takiguchi-yu/items/dad28205ab4e12252ec9)
 <!-- BLOG-POST-LIST:END -->
 
 
