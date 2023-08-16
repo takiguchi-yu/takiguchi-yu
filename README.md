@@ -78,10 +78,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [vimのショートカット（よく使うやつだけ）[適宜更新]](https://qiita.com/takiguchi-yu/items/85f9e55006d200c868ea)
+- [gitアカウントの切り替え方法](https://qiita.com/takiguchi-yu/items/d2aeca7d6ba43e2028b1)
 - [axiosを使っていてcertificate chain を回避する方法](https://qiita.com/takiguchi-yu/items/5b0a39f0751ba6dd786d)
 - [Gitのコミットメッセージ](https://qiita.com/takiguchi-yu/items/bef6074da3c71a863a67)
-- [AWS CDK初学者が押さえるべき参考リンク](https://qiita.com/takiguchi-yu/items/66ad12345e893f2cde0d)
-- [AWS CDK で OpenAPI 定義のプレースホルダーを実際の値に置き換える](https://qiita.com/takiguchi-yu/items/8a7f49728dd07752419c)
 <!-- BLOG-POST-LIST:END -->
 
 
