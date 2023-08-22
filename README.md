@@ -78,10 +78,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS SAM CLI と AWS CDK のローカルテスト連携](https://qiita.com/takiguchi-yu/items/c637ee114c1da25cb949)
 - [QiitaがCLIを提供するようになったので文章校正を自動化しておく](https://qiita.com/takiguchi-yu/items/0ee440ec499f840ee738)
 - [vimのショートカット（よく使うやつだけ）[適宜更新]](https://qiita.com/takiguchi-yu/items/85f9e55006d200c868ea)
 - [gitアカウントの切り替え方法](https://qiita.com/takiguchi-yu/items/d2aeca7d6ba43e2028b1)
-- [axiosを使っていてcertificate chain を回避する方法](https://qiita.com/takiguchi-yu/items/5b0a39f0751ba6dd786d)
 <!-- BLOG-POST-LIST:END -->
 
 
