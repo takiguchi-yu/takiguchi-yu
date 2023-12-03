@@ -78,10 +78,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [create-react-appで作成したアプリケーションをviteに移行する](https://qiita.com/takiguchi-yu/items/21f0c81b2c5ad198f7c1)
 - [AWS SAM CLI を使ってローカル環境でホットリロード開発する方法](https://qiita.com/takiguchi-yu/items/da2d6ab6ad3da922ffd6)
 - [[TypeScript]Function lacks ending return statement and return type does not include &#39;undefined&#39;](https://qiita.com/takiguchi-yu/items/b37107dc7db58ec0d4b9)
 - [fishで環境変数を設定する方法](https://qiita.com/takiguchi-yu/items/c73b658648735c656caa)
-- [AWS SAM CLI と AWS CDK のローカルテスト連携](https://qiita.com/takiguchi-yu/items/c637ee114c1da25cb949)
 <!-- BLOG-POST-LIST:END -->
 
 
