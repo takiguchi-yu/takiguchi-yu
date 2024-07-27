@@ -78,10 +78,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [RUST製のgrepツール「ripgrep」のヘルプ](https://qiita.com/takiguchi-yu/items/1a3ecb3f103f5239fb04)
 - [HTMLをデバッグしてDOMがいつ更新されたかを追いかける](https://qiita.com/takiguchi-yu/items/1e4a0e163066b768b4f0)
 - [macOS を Ventura にアップデートしたら ssh でサーバに入れなくなった](https://qiita.com/takiguchi-yu/items/f39f6abbeb4cda3ef4c2)
 - [はじめてGoプログラミング言語を触った感想](https://qiita.com/takiguchi-yu/items/a513544714eb90d02e1b)
-- [ShemaSpy でデータベースのドキュメントを出力する](https://qiita.com/takiguchi-yu/items/d1d5ac01d6a81b261709)
 <!-- BLOG-POST-LIST:END -->
 
 
