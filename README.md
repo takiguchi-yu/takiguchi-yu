@@ -78,10 +78,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [NextJS をロードバランサーの背後で動かすならば Keep-Alive を伸ばしましょう](https://qiita.com/takiguchi-yu/items/689230714a0602a02d36)
 - [ドキュメント生成ツールとして使用するSSG比較](https://qiita.com/takiguchi-yu/items/1e57521580aec84b78fe)
 - [RUST製のgrepツール「ripgrep」のヘルプ](https://qiita.com/takiguchi-yu/items/1a3ecb3f103f5239fb04)
 - [HTMLをデバッグしてDOMがいつ更新されたかを追いかける](https://qiita.com/takiguchi-yu/items/1e4a0e163066b768b4f0)
-- [macOS を Ventura にアップデートしたら ssh でサーバに入れなくなった](https://qiita.com/takiguchi-yu/items/f39f6abbeb4cda3ef4c2)
 <!-- BLOG-POST-LIST:END -->
 
 
