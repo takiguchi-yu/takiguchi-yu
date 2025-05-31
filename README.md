@@ -78,10 +78,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Elasticsearch とは何ですか](https://qiita.com/takiguchi-yu/items/a608e35bcbe989d160e9)
 - [Next.js の Middleware で GraphQL を呼び出したかった](https://qiita.com/takiguchi-yu/items/bde312fed7208e23e6ee)
 - [NextJS + App Router + RSC の採用＝ローディング UX 設計もセット](https://qiita.com/takiguchi-yu/items/1012670ec8c514c69fc5)
 - [NextJS をロードバランサーの背後で動かすならば Keep-Alive を伸ばしましょう](https://qiita.com/takiguchi-yu/items/689230714a0602a02d36)
-- [ドキュメント生成ツールとして使用するSSG比較](https://qiita.com/takiguchi-yu/items/1e57521580aec84b78fe)
 <!-- BLOG-POST-LIST:END -->
 
 
