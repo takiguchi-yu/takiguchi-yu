@@ -78,10 +78,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Nixのプロジェクトごとの環境構築 &lpar;flake.nix + direnv&rpar;](https://qiita.com/takiguchi-yu/items/6829626808a4293373b0)
 - [HomebrewからNixに移行した](https://qiita.com/takiguchi-yu/items/82c554054575c3289004)
 - [Terraformで構築したRDS（Amazon Aurora PostgreSQL）のメジャーアップグレード](https://qiita.com/takiguchi-yu/items/9c460191cc4ff2036cc1)
 - [CodeBuild で Secrets Manager 環境変数を使用する際の TLS 証明書検証エラー](https://qiita.com/takiguchi-yu/items/6c170a47fe576b44cd70)
-- [Gitアカウントをディレクトリ移動だけで自動で切り替える](https://qiita.com/takiguchi-yu/items/6f5bf37374d8516721ed)
 <!-- BLOG-POST-LIST:END -->
 
 
