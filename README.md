@@ -78,7 +78,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [自律型AIエンジニアを自作してみたが使うまでには至らなかった](https://qiita.com/takiguchi-yu/items/4004ae95290841f96551)
+- [自律型AIエージェントを自作してみたが使うまでには至らなかった](https://qiita.com/takiguchi-yu/items/4004ae95290841f96551)
 - [Nixのプロジェクトごとの環境構築 &lpar;flake.nix + direnv&rpar;](https://qiita.com/takiguchi-yu/items/6829626808a4293373b0)
 - [HomebrewからNixに移行した](https://qiita.com/takiguchi-yu/items/82c554054575c3289004)
 - [Terraformで構築したRDS（Amazon Aurora PostgreSQL）のメジャーアップグレード](https://qiita.com/takiguchi-yu/items/9c460191cc4ff2036cc1)
