@@ -78,10 +78,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code &lpar;ターミナル&rpar; に usage を表示する](https://qiita.com/takiguchi-yu/items/dce707222f57d9ae1353)
 - [性能テストを実施したときの課題と解決策](https://qiita.com/takiguchi-yu/items/25ea6641ef9833ddd6b7)
 - [GitHub CopilotのAIクレジット節約方法を調査【2026年6月9日時点】](https://qiita.com/takiguchi-yu/items/fa99c147ff9edb8ebe8e)
 - [自律型AIエージェントを自作してみたが使うまでには至らなかった](https://qiita.com/takiguchi-yu/items/4004ae95290841f96551)
-- [Nixのプロジェクトごとの環境構築 &lpar;flake.nix + direnv&rpar;](https://qiita.com/takiguchi-yu/items/6829626808a4293373b0)
 <!-- BLOG-POST-LIST:END -->
 
 
